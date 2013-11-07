@@ -16,6 +16,6 @@ __pycache__
 /lib/
 /var/
 /fabfile.py
-Kotti.db
+*.db
 src/ade25.fabfiles
 

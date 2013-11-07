@@ -9432,6 +9432,7 @@ input.submit-widget {
   border: 1px solid transparent;
   border-color: #cccccc;
   border-radius: 4px;
+  border-radius: 0;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -10707,6 +10708,10 @@ dd.image-caption {
 .app-brandname:hover,
 .app-brandname:focus {
   text-decoration: none;
+}
+
+.btn {
+  border-radius: 0;
 }
 
 select,
